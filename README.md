@@ -19,4 +19,4 @@ $git clone https://github.com/takeda1350/robosys.git
 ## デモ動画
 https://youtu.be/z8k4U-Ns4HM
 ## LICENSE
-This repository is licensed under the BSD-2-Clause license, see LISENCE
+This repository is licensed under the BSD-3-Clause license, see LISENCE
